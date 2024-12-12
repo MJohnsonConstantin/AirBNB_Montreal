@@ -138,6 +138,10 @@ The Power BI dashboard for this project is available for download at the followi
 ---
 
 This dashboard was designed to provide actionable insights into revenue generation, host behaviors, seasonal trends, and review dynamics for Airbnb listings in Montreal.
+![image](https://github.com/user-attachments/assets/3e3a4f8b-ebe3-421f-9072-c52f0717b83d)
+![image](https://github.com/user-attachments/assets/ccadf4bb-61db-47cf-ac57-88fcab0cc52e)
+![image](https://github.com/user-attachments/assets/c2bbe3c0-cf0b-45d1-99e5-af3f4a934343)
+![image](https://github.com/user-attachments/assets/e65dfca9-3fd9-4b3b-919f-d73778acb008)
 
 <h2 align="center">Challenges</h2>
 This project faced several challenges during its development:  
