@@ -2,6 +2,11 @@
 This repository contains the Power BI dashboard and the Python data transformation script for analyzing Airbnb listings in Montreal 2024. 
 The goal of this project is to provide insights into key metrics such as revenue, host performance, property types, seasonal trends, and review scores
 
+![image](https://github.com/user-attachments/assets/3e3a4f8b-ebe3-421f-9072-c52f0717b83d)
+![image](https://github.com/user-attachments/assets/ccadf4bb-61db-47cf-ac57-88fcab0cc52e)
+![image](https://github.com/user-attachments/assets/c2bbe3c0-cf0b-45d1-99e5-af3f4a934343)
+![image](https://github.com/user-attachments/assets/e65dfca9-3fd9-4b3b-919f-d73778acb008)
+
 <h2 align="center">Data Source</h2>
 
 The data used in this project was obtained from [Inside Airbnb](https://insideairbnb.com/get-the-data/), which provides detailed Airbnb datasets for various locations worldwide. The data used was from **2024 Listings in Montreal**. The data can be downloaded via this link:  
@@ -138,10 +143,6 @@ The Power BI dashboard for this project is available for download at the followi
 ---
 
 This dashboard was designed to provide actionable insights into revenue generation, host behaviors, seasonal trends, and review dynamics for Airbnb listings in Montreal.
-![image](https://github.com/user-attachments/assets/3e3a4f8b-ebe3-421f-9072-c52f0717b83d)
-![image](https://github.com/user-attachments/assets/ccadf4bb-61db-47cf-ac57-88fcab0cc52e)
-![image](https://github.com/user-attachments/assets/c2bbe3c0-cf0b-45d1-99e5-af3f4a934343)
-![image](https://github.com/user-attachments/assets/e65dfca9-3fd9-4b3b-919f-d73778acb008)
 
 <h2 align="center">Challenges</h2>
 This project faced several challenges during its development:  
