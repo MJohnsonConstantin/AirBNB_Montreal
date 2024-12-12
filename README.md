@@ -152,7 +152,7 @@ This project faced several challenges during its development:
   The initial dataset lacked proper structure, which required separating it into logically defined tables (e.g., Host, Listing, Calendar, Reviews) and establishing clear relationships to support analysis in Power BI.  
 
 - **Sentiment Analysis of Customer Reviews**:  
-  An attempt was made to analyze customer sentiment based on review text. However, the dataset contained over 13 million reviews in multiple languages, and translation required significant computational resources. This limitation prevented immediate progress, but efforts are ongoing to implement a solution, such as batch translation over time.  
+  An attempt was made to analyze customer sentiment based on review text. However, the dataset contained over 13 million reviews in multiple languages, and translation required significant computational resources. This limitation prevented immediate progress, but efforts are ongoing to implement a solution, such as batch translation over time. Please look at the Python_Code_For_Review_Translation.py to review the translation attempt to make the customer sentiment Analysis (In progress)  
 
 ---
 <h2 align="center">Contact Information</h2>
